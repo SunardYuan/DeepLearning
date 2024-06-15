@@ -1,9 +1,9 @@
 # 水稻病害分类模型
 ## 简介
-这是本人深度学习课程的作业，
-基于EfficientNetB4开发了一个水稻病害分类模型，
-完成了Kaggle上的“Paddy Doctor: Paddy Disease Classification”竞赛目标，
-最终模型的分类准确率达0.96  。
+这是本人深度学习课程的作业，  
+基于EfficientNetB4开发了一个水稻病害分类模型，  
+完成了Kaggle上的“Paddy Doctor: Paddy Disease Classification”竞赛目标，  
+最终模型的分类准确率达0.96 。  
 竞赛网址：https://www.kaggle.com/competitions/paddy-disease-classification/data  
 最终模型的构建参考了Mehak Iftikhar等人的作品，并新增数据增强、解冻模型等操作。
 ## 目的
