@@ -14,9 +14,9 @@
 ## 使用说明
 将代码下载到本地，修改其中的路径为你下载到本地的数据的路径，这些数据需要从竞赛网址下载，然后直接运行即可
 ## 流程图
-![image](image1.png)
+![image](img/image1.png)
 ## 模型层次图
-![image2](image2.png)
+![image2](img/image2.png)
 
 
 
